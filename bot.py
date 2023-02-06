@@ -515,4 +515,4 @@ async def inventory(ctx):
 
 
 
-client.run('OTk3Mjg2NTQ4ODkyNTY5NjEx.GN1SSS.RIvUIb-A1h-wCqArIHnGWkRN9VDNpraGRq-f1I')
+client.run('TOKEN')
